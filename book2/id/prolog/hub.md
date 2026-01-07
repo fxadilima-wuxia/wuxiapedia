@@ -1,3 +1,7 @@
+---
+layout: novel
+---
+
 # Prolog
 ### *Henan, 1354*
 

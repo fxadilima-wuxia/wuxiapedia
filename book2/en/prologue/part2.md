@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Prologue
 
 ## *Journey to Wudang: The Unveiling Truth*

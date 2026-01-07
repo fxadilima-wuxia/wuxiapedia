@@ -1,3 +1,7 @@
+---
+layout: novel
+---
+
 # The Promised Land in the Western Horizon
 
 This story is built upon the characters from Jin Yong's (Louis Cha) original work, titled 'Yitian Tulong Ji' or in English 'The Heavenly Sword and the Dragon Slaying Sabre', by exploring ideas within events that Jin Yong himself did not delve into.[^judul-asli]
@@ -47,4 +51,8 @@ The story in Jin Yong's work in this part feels somewhat odd:
 - Manichaeism, which forms the main nuance of the story, in various places, naturally underwent adaptations to make it acceptable to local communities. This was not as simple and shallow as Jin Yong wrote, becoming merely a movement to expel barbarians. In the Yuan Dynasty era, it was Peng Yingyu, a real historical figure, who initiated that rebellion movement with his teachings, which originally did not contain phrases in this direction, but implicitly could indeed trigger a rebellion, and Peng Yingyu himself seemingly allowed it, or even deliberately encouraged it.
 
 - A striking anomaly is stating that Persian Manichaeism taught its followers to have a 'Holy Maiden' as their leader. This is truly strange, considering Manichaeism itself originated from the faith experience of a Persian man named Mani, who was one hundred percent male. How could it then become a teaching that championed a woman as their leader? This point, in our story, troubles Xiao Zhao, who is clearly in love with, and loved by, Zhang Wuji!
+
+
+---
+
 

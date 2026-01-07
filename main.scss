@@ -1,0 +1,53 @@
+
+@import "custom-variables"; // Import your overrides first
+@import "minima";          // Then import the theme, which will pick up your values
+
+
+/* In your assets/main.scss or a custom SCSS file (e.g., _sass/_custom-nav.scss) */
+
+.nav-items { /* Target the div containing the nav links */
+  display: flex;
+  flex-wrap: wrap; /* This is the key for wrapping */
+  gap: 15px; /* Creates consistent spacing between items (horizontal and vertical) */
+             /* This is a modern alternative to margin-right and margin-bottom */
+
+  /* If you don't want to use `gap`, use margins on the links directly: */
+  /* If you use gap, you don't typically need these margins on .nav-item */
+  /* margin-right: 15px; */
+  /* margin-bottom: 10px; */
+
+  align-items: center; /* Vertically aligns items in a line */
+  justify-content: flex-start; /* Horizontally aligns items to the start (left) */
+}
+
+.nav-item { /* Target the individual nav links */
+  padding: 8px 12px; /* Example padding */
+  text-decoration: none;
+  color: #007bff; /* Example link color */
+  border: 1px solid #007bff; /* Example border */
+  border-radius: 5px; /* Example rounded corners */
+  white-space: nowrap; /* Prevent text inside link from wrapping */
+  box-sizing: border-box; /* Include padding/border in element's total width/height */
+
+  /* If you're using margins on .nav-item instead of gap on .nav-items */
+  /* margin-bottom: 10px; */ /* Only need bottom margin if using display: inline-block */
+}
+
+/* Add hover styles */
+.nav-item:hover {
+  background-color: #007bff;
+  color: white;
+}
+
+/* Optional: Media query for smaller screens */
+@media screen and (max-width: 768px) {
+  .nav-items {
+    flex-direction: column; /* Stack items vertically on small screens */
+    gap: 10px; /* Adjust gap for vertical stacking */
+  }
+
+  .nav-item {
+    width: 100%; /* Make links take full width */
+    text-align: center;
+  }
+}

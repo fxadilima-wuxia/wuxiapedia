@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # README
 
 Chapter 34 in Jin Yong's story already start with an error:
@@ -97,4 +101,20 @@ Salah seorang pengawal pribadinya mengiyakan, lalu mengambil dua ekor kuda dan m
 ## Tumblr
 
 Banner for a community in `tumblr` should be 1840x560 px, and the avatar should be 512x512 square.
+
+
+---
+
+### PDF
+
+Price IDR 10.000
+
+[Lynk.id](http://lynk.id/fxadilima/qyk63qe49d06)
+[Checkout](http://lynk.id/fxadilima/qyk63qe49d06/checkout)
+
+---
+
+# The Web Page
+
+Karena kita menggunakan `W3.CSS` untuk _styling_, maka tidak terlalu banyak yang tersisa.
 

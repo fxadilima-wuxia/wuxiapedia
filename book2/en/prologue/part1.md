@@ -1,4 +1,10 @@
-# Prologue: Henan 1354
+---
+layout: novel
+---
+
+# Prologue
+
+### Henan 1354
 
 Chaghan Temur stroked his thick beard with his left hand, deep in thought. He was not a man easily intimidated. He knew well that his daughter was full of cunning tricks and very astute. In truth, he had no objection to having a son-in-law like Zhang Wuji, if only he could find a way to evade the accusations from the court that he and his family intended to rebel, but unfortunately, no such solution had presented itself. He remained silent for a long time without uttering a single word.
 
@@ -69,4 +75,5 @@ Swallowing her own tears, Zhao Min nodded without speaking.
 To his personal guards, Chaghan said, "Give my two best horses to Junzhu."
 
 One of his personal guards assented, then took two horses and gave them to Zhao Min, then followed Chaghan Temur down the hill. The Tibetan monks who were injured after fighting Zhang Wuji also followed them. In an instant, everyone was gone, and only Zhang Wuji and Zhao Min remained on the hill, still pondering everything General Chaghan Temur had said.
+
 
